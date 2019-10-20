@@ -1,4 +1,4 @@
-# LIS161
+# LIS160
 
 https://uvle.upd.edu.ph/pluginfile.php/171913/mod_resource/content/4/LIS%20160_Class%20Syllabus_Information%20and%20Communications%20Technology%20I.pdf
 
